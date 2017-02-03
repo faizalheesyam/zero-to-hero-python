@@ -1,2 +1,4 @@
-# zero-to-hero-python
-Initiated after attending ZeroToHero:Python crash course session, organized by KinabaluCoders. my Python learning journey.
+# ZeroToHero:Python
+Initiated after attending ZeroToHero:Python crash course, organized by Kinabalu Coders.
+
+My journey into Python. Hello.
